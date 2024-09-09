@@ -1,0 +1,14 @@
+This project will involve simulating the RFID reader and tags, verifying access permissions, and controlling access to a simulated door or gate. We'll simulate the system in C/C++ and provide a web interface to demonstrate the system.
+
+Project Overview
+RFID Simulation: Simulate RFID tags and a reader.
+Access Control Logic: Implement logic to grant or deny access based on RFID tag ID.
+Web Interface: Create a web interface to demonstrate the access control system.
+
+Steps to Implement the Project
+
+1.Setup Development Environment
+2.Simulate RFID Reader and Tags
+3.Implement Access Control Logic
+4.Create Web Interface for Simulation
+5. Integrate and Test
